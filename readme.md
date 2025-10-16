@@ -84,7 +84,7 @@ O projeto será financiado por meio da **venda de tokens**, que representam part
 
 ### 🏛️ Órgãos Estatais
 - Direito de visitação e uso da imagem para campanhas públicas.  
-- Possibilidade de **articulação legal** para **isenção de impostos** a organizações que detenham tokens.
+- Obs.: Existe possibilidade de criação de projeto de lei prevendo **isenção de impostos** para empresas que detenham tokens.
 
 ---
 
@@ -105,7 +105,7 @@ Durante o processo regenerativo, as terras  sob posse da fundação. Após a reg
 O sistema de governança segue princípios de **democracia participativa** e **sustentabilidade ambiental**:
 
 - A **Fundação** possui **poder de veto** para propostas que possam causar degradação ambiental;  
-- **Associações de moradores** locais podem se cadastrar e exercer **veto social** sobre propostas que afetem o ordenamento comunitário;  
+- Escolha de uma instituição de **associação de moradores** das redondezas de cada lote para terem o poder de exercer **veto social** sobre propostas que afetem o ordenamento comunitário;  
 - **Detentores de tokens** votam de forma ponderada pelo **modelo quadrático**, garantindo equilíbrio entre pequenos e grandes participantes.
 
 ---
